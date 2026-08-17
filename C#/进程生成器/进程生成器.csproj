@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- 下面的图标路径请根据实际情况填写，如果无图标可以删除或注释掉 -->
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <AssemblyName>进程生成器</AssemblyName>
+    <ApplicationTitle>进程生成器</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>
